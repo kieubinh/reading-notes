@@ -1,5 +1,5 @@
 # Notes for reading books
-Here's my diary to note reading books.
+Here's my book list with some notes and collected quotes.
 
 ## Index 
 [Index](books/index.md)
