@@ -6,7 +6,12 @@ Here's my diary to note reading books.
 
 [Quotes](quotes.md)
 
-## Bussiness Books
+## Money & Investments
+1. [The Psychology of Money](books/mi001.md) -  Morgan Housel
+2. [Rich Dad Poor Dad](books/mi002.md) -  Robert Kiyosaki
+3. [Built, Not Born](books/mi003.md) -  Tom Golisano, Mike Wicks
+
+## Business & Carrer
 
 ## Communication Skill Books
 1. [How To Win Friends and Influence People](books/bc001.md) - Nicholas Boothman
@@ -17,17 +22,28 @@ Here's my diary to note reading books.
 6. [Words that Change Minds](books/bc006.md) - Shelle Rose Charvet
 7. [Crucial Conversations](books/bc007.md) - Kerry Patterson and etc.
 8. 
-## Self-Help Books
+
+## Productivity
+1. 
+
+## Society & Tech
+
+## Leadership
+
+## Personalities
+
+## Self-Growth Books
 1. [Six Thinking Hats](books/bs001.md) - Edward de Bono
 2. [The 48 Laws of Power](books/bs002.md) - Robert Greene
 3. [Chop Wood, Carry Water](books/bs003.md) - Joshua Medcalf
 4. [The Biggest Bluff](books/bs004.md) - Maria Konnikova
 5. 
 
-## Success Books
+## Success
 
-## Wellness Books
+## Happiness
 
-## Real Man Books
+## Health
 
-## 
+## Real Man
+
