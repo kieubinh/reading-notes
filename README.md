@@ -1,4 +1,4 @@
-# Notes for reading books
+# My notebook
 Here's my book list with some notes and collected quotes.
 
 ## Index 
