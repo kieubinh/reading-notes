@@ -4,7 +4,7 @@ Here's my diary to note reading books.
 ## Index 
 [Index](books/index.md)
 
-[Quotes](quote.md)
+[Quotes](quotes.md)
 
 ## Bussiness Books
 
