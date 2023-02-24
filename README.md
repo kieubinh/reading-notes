@@ -3,7 +3,9 @@ Here's my diary to note reading books.
 
 ## Index 
 [Index](books/index.md)
+
 [Quotes](books/quote.md)
+
 ## Bussiness Books
 
 ## Communication Skill Books
