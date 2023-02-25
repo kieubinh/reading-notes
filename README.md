@@ -9,9 +9,10 @@ Here's my book list with some notes and collected quotes.
 ## Money & Investments
 1. [The Psychology of Money](books/mi001.md) -  Morgan Housel
 2. [Rich Dad Poor Dad](books/mi002.md) -  Robert Kiyosaki
-3. [Built, Not Born](books/mi003.md) -  Tom Golisano, Mike Wicks
 
 ## Business & Carrer
+1. [Built, Not Born](books/bu001.md) -  Tom Golisano, Mike Wicks
+2. [Nine Lies About Work](books/bu002.md) -  Marcus Buckingham and Ashley Goodall
 
 ## Communication Skill Books
 1. [How To Win Friends and Influence People](books/bc001.md) - Nicholas Boothman
