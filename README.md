@@ -16,7 +16,7 @@ Here's my book list with some notes and collected quotes.
 
 ## Communication Skill Books
 1. [How To Win Friends and Influence People](books/bc001.md) - Nicholas Boothman
-2. [How To Make People Like You](books/bc002.md) - Nicholas Boothman
+2. [How To Make People Like You](books/hwmplu.md) - Nicholas Boothman
 3. [How To Talk To Anyone](books/bc003.md) - Leil Lowndes
 4. [TED Talks Storytelling](books/bc004.md) - Akash Karia
 5. [Talking to Strangers](books/bc005.md) - Malcolm Gladwell
