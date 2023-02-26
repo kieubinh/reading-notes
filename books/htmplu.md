@@ -37,7 +37,7 @@
 - The final part is the "lean". This action can be an almost unnoticieable forward tilt to very subtly indicate your interest and openness as you start to "synchronize" the person you've just met.
 - **Point your heart at the other person and say hello. Light up your eyes and smile.**
 
-## Chapter 4 - To establish rapport with others, you must synchronize your interests with theirs.
+## Chapter 4 - To establish rapport with others, you must synchronize your interests with theirs
 - Rapport is the creation of common ground - a comfort zone where two or more people can mentally join together.
 - The prize you get for establishing rapport with someone is that person's positive acceptance. It will imply something like this: "I know I just met you, but I like you so I will trust you with my attention."
 - **Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important.**
@@ -47,4 +47,16 @@
 - **Rapport is established when the interests or the behavior of two or more people are synchronized.**
 - **Rapport by design**. When you have nothing in common with the person you are trying to connect with, rapport by design is established by deliberately altering your behavior, just for a short time, in order to become like the other person. A technique called "synchronizing" is to purposely reduce the distance and differences between another person and yourself by finding common ground.
 
-## Chapter 5 - 
+## Chapter 5 - Synchronizing is an adapting device that allows you to make smooth connections at will and quickly
+- When trying to be in sync with someone else, your main task is to do exactly what the other person does; you can either synchronize the other person's attitude or body language.
+- **Synchronizing the other person's attitude involves picking up on their feelings and mirroring it back to them.**
+- To achieve this, mirror the person's movements, breathing pattern and expression as you "deeply identify" with them. Tune in to the overall mood signaled by their voice and reflect it back. -> "I don't know what it is about this person, but there's something I really like!"
+- **Anything that enhances the common ground and decreases the distance between you and the other person is a good thing."
+- **Synchronizing body language is of two kinds: mirroring and matching.**
+- **Matching**. Doing the same thing as the other person. For example, she moves her left hand, you move your left hand.
+- **Mirroring**. Moving as if you were looking at the other person in a mirror. For example, he moves his left hand, you move your right hand.
+- The key is to make your movements subtle and respectful.
+- Get it right, and the communication can start. Get it wrong, and you'll have to **bargain for attention**.
+
+
+
