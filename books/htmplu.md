@@ -7,7 +7,7 @@
   + How to be an active listner?
   + How to identify and read the most important sensory preferences.
 - This book is applied to whether you're selling, managing, pitching an idea, applying to college, or looking for a soulmate. The secret of success is based on connecting with other people, that connection is now very easy to make through the techniques of face-to-face communication.
-- **"If people like youm, they will be inclined to give you their time and their efforts."** by _Nicholas Broothman_
+- **"If people like you, they will be inclined to give you their time and their efforts."** by _Nicholas Broothman_
 
 ## Chapter 1 - Connecting with other people is essential for our survival as humans
 - We need other people to survive; none of us can live a happy and healthy life in isolation.
@@ -41,4 +41,10 @@
 - Rapport is the creation of common ground - a comfort zone where two or more people can mentally join together.
 - The prize you get for establishing rapport with someone is that person's positive acceptance. It will imply something like this: "I know I just met you, but I like you so I will trust you with my attention."
 - **Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important.**
-- 
+- Sometimes a rapport just happens naturally and you have no clue why. However, there are other times when you just find it very hard to connect with another person no matter how hard you try.
+- Rapport comes in two forms: Rapport by chance and rapport by design.
+- **Rapport by chance**. For example, when you go to a country where people do not speak your language, you feel uncomfortable but you suddenly meet someone from your own country. You have a new best friend for your vacation at least.
+- **Rapport is established when the interests or the behavior of two or more people are synchronized.**
+- **Rapport by design**. When you have nothing in common with the person you are trying to connect with, rapport by design is established by deliberately altering your behavior, just for a short time, in order to become like the other person. A technique called "synchronizing" is to purposely reduce the distance and differences between another person and yourself by finding common ground.
+
+## Chapter 5 - 
