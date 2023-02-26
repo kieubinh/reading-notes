@@ -1,2 +1,3 @@
 # Buil, Not Born
-By 
+Author: 
+Noted by Anthony K.
