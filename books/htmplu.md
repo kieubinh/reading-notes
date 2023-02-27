@@ -61,5 +61,13 @@
 ## Chapter 6 - Having a good conversation is not all talk - it's listening, too
 - Conversation comes in two equally important parts: **asking questions** and **actively listening**.
 - **Your main aim during the earlier stages of your conversation is to search for common interests using small talks.**
-- **Open questions** request an explannation, starting with one of 6 conversations: 
+- **Open questions** request an explannation, starting with one of 6 conversation-generating words: Who? When? What? Why? Where? How? For example, "How do you know that?", "Who told you?", "Where do you think this information comes from?"
+- **To make your open question more effective, you can add sensory-specific verbs like "see", "tell", and "feel".**
+- For instance, "Where do you see yourself by this time next year?", "Tell me why you decided on Bali for your vacation.", "How do you feel about calamari?"
+- **Closed questions will close off your chances of rapport-inducing conversation."
+- Try to avoid closed questions such as: Are you...? Do you...? Have you...?
+- **The very fact that your question is open will guarantee that you quickly receive free information.**
+
+## Chapter 7 - Active listening is the other side of the conversation coin
+- 
 
