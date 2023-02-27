@@ -58,5 +58,8 @@
 - The key is to make your movements subtle and respectful.
 - Get it right, and the communication can start. Get it wrong, and you'll have to **bargain for attention**.
 
-
+## Chapter 6 - Having a good conversation is not all talk - it's listening, too
+- Conversation comes in two equally important parts: **asking questions** and **actively listening**.
+- **Your main aim during the earlier stages of your conversation is to search for common interests using small talks.**
+- **Open questions** request an explannation, starting with one of 6 conversations: 
 
