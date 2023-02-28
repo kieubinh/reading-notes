@@ -80,5 +80,26 @@
 ## Chapter 8 - Know what you want and adopt the best attitude to help you get it
 - Your mind and body are part of the same system - they influence each other. When you are happy, you look happy, you sound happy, and you use happy words.
 - **Attitudes are like trays on which you serve yourself up to other people.**
-- 
+- There are two different types of attitudes: "Really Useful Attitude" or "Really Useless Attitude". Whichever type of attitude you choose to exhibit will determine whether the outcome of your meeting will be a positive or a negative one.
+- **As far as communication is concerned, a useless attitude will get you nowhere.**
+- No matter where you live or what you do, the quality of your attitude determines the quality of your relationships, and just about everything else in your life.
 
+## Chapter 9 - Your posture, movements, and experssion will speak volumes about you before you even open your mouth
+- **Ask yourself, 'What do I want, right now, at this moment? And which attitude will serve me best?**
+- You should always know what you want from your communication and decide on the best attitude you need to get it.
+- Once you know what you want and which is the most useful attitude to help you get it, our body language, voice, and words will automatically change to help you achieve your goal.
+- **No matter how good you are at sweet-talking, people still won't find you likable if you have a bad attitude.**
+- To always appear likable and to be able to create meaningful connections, always exhibit a **Really Useful Attitude**.
+
+## Chapter 10 - Conclusion
+- None of us can live a happy and healthy life in isolution. Our evolution and personal growth are highly dependent on how well we connect with our fellow humans.
+- Connecting with others make us feel safe, loved, and make us live longer.
+- To create meaningful connections and increase your likability, you must be able to make good first impressions, establish rapport and communicate effectively.
+- Learn to carry conversations by asking open-ended questions, and try as much as possible to listen actively, with full interest, while the other person is talking.
+- Your attitude also has a tremendous effect on the quality of your communication.
+- When you meet someone for the first time, you can either give off a bad attitude or a great attitude.
+- Whichever type of attitude you choose to exhibit will determine how successful your meeting will turn out to be.
+- **Try this**
+  + Always have a postive and open attitude.
+  + Your attitude sets the quality and mood of your thoughts, your voice tone, your spoken words, your facial and body language.
+  + Whether or not people will find you likable is solely dependent on the type of attitude you choose to adopt.
