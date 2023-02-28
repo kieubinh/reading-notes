@@ -69,5 +69,16 @@
 - **The very fact that your question is open will guarantee that you quickly receive free information.**
 
 ## Chapter 7 - Active listening is the other side of the conversation coin
+- The key to being an active listener lies in making a sincere effort to absorb what that person is saying and feeling.
+- **You have to make an active attempt to grasp and understand the facts and the underlying feelings of what is being said.**
+- The goal here is to make the person talking feel that you're listening and feel that you care.
+- Encourage the other person verbally by giving spoken feedback such as "Wow", "Aha", "Oh", and "Hm". To make things more interesting,"Oh, really", "And then what?", and "You're not serious. So, what did he do?"
+- **Give physical feedback by using an open and encouraging body language. For example, nod in agreement and make plenty of eye contact, but don't stare.**
+- **Look away in thought intermittently throughout the conversation. For instance, looking at your hands from time to time gives the impression of participation."
+- Listen and give spoken feedback based on your feelings and showing concern and interest in the other person. For instance, "wow, I can't believe that you've been coming here for three years and we've never met. You seem so interesting and I really wish I would have made your acquaintance sooner."
+
+## Chapter 8 - Know what you want and adopt the best attitude to help you get it
+- Your mind and body are part of the same system - they influence each other. When you are happy, you look happy, you sound happy, and you use happy words.
+- **Attitudes are like trays on which you serve yourself up to other people.**
 - 
 
