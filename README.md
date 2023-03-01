@@ -13,6 +13,7 @@ Here's my book list with some notes and collected quotes.
 ## Business & Carrer
 1. [Built, Not Born](books/bnb.md) -  Tom Golisano, Mike Wicks
 2. [Nine Lies About Work](books/nlaw.md) -  Marcus Buckingham and Ashley Goodall
+3. [The Four: The hidden DNA](books/tfthdna.md) - Scott Galloway
 
 ## Communication Skill Books
 1. [How To Win Friends and Influence People](books/htwfaip.md) - Nicholas Boothman
