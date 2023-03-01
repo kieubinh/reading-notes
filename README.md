@@ -11,13 +11,14 @@ Here's my book list with some notes and collected quotes.
 2. [Rich Dad Poor Dad](books/rdpd.md) -  Robert Kiyosaki
 
 ## Business & Carrer
-1. [Built, Not Born](books/bnb.md) -  Tom Golisano, Mike Wicks
-2. [Nine Lies About Work](books/nlaw.md) -  Marcus Buckingham and Ashley Goodall
-3. [The Four: The hidden DNA](books/tfthdna.md) - Scott Galloway
+1. [The Four: The hidden DNA](books/tfthdna.md) - Scott Galloway
+2. [Built, Not Born](books/bnb.md) -  Tom Golisano, Mike Wicks
+3. [Nine Lies About Work](books/nlaw.md) -  Marcus Buckingham and Ashley Goodall
+
 
 ## Communication Skill Books
-1. [How To Win Friends and Influence People](books/htwfaip.md) - Nicholas Boothman
-2. [How To Make People Like You](books/htmplu.md) - Nicholas Boothman
+1. [How To Make People Like You](books/htmplu.md) - Nicholas Boothman
+2. [How To Win Friends and Influence People](books/htwfaip.md) - Nicholas Boothman
 3. [How To Talk To Anyone](books/httta.md) - Leil Lowndes
 4. [TED Talks Storytelling](books/tedts.md) - Akash Karia
 5. [Talking to Strangers](books/tts.md) - Malcolm Gladwell
