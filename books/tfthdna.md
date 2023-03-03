@@ -1,5 +1,5 @@
 # The Four: The Hidden DNA of Apple, Amazon, Facebook and Google
-- Author: Scott Galloway
+- Author: **Scott Galloway**
 - In The Four, Galloway analyzes Facebook, Apple, Amazon and Google to reveal secrets that make them successful.
 - He also extracts lessons from these companies to give a head start to anyone desiring to build companies of such magnitude.
 - **"If there is a blunter, more opinionated, faster-talking expert on the Internet than Scott Galloway, I haven't come across him. Or her"** by Philip Elmer - Dewitt, Fortune.
