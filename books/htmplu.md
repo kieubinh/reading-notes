@@ -1,5 +1,5 @@
 # How To Make People Like You
-- Author: Nicholas Boothman, a master of Neuro-Linguistic Programming.
+- Author: **Nicholas Boothman**, a master of Neuro-Linguistic Programming.
 - The author unveils the concept of synchrony - how you can synchronize your attitude, body language, and tone of voice in a way that instantly and imperceptibly makes you irresistibly likable to other people. 
 - He answers the below questions:
   + What's the difference between open and closed body language?
