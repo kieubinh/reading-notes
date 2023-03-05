@@ -16,7 +16,7 @@ Here's my book list with some notes and collected quotes.
 3. [Nine Lies About Work](books/nlaw.md) -  Marcus Buckingham and Ashley Goodall
 
 
-## Communication Skill Books
+## Communication Skills
 1. [How To Make People Like You](books/htmplu.md) - Nicholas Boothman
 2. [How To Win Friends and Influence People](books/htwfaip.md) - Nicholas Boothman
 3. [How To Talk To Anyone](books/httta.md) - Leil Lowndes
