@@ -9,6 +9,7 @@ Here's my book list with some notes and collected quotes.
 ## Money & Investments
 1. [The Psychology of Money](books/tpom.md) -  Morgan Housel
 2. [Rich Dad Poor Dad](books/rdpd.md) -  Robert Kiyosaki
+3. [Naked Economics: Underssing The Dismal Science](books/neutds.md) - Charles Wheelan
 
 ## Business & Carrer
 1. [The Four: The hidden DNA](books/tfthdna.md) - Scott Galloway
