@@ -67,4 +67,6 @@
 ## Chapter 9 - The way someone responds to stress speaks volumes about them
 - There are three main patterns: Feeling, Choice and Thinking.
 - Someone with a **feeling** pattern cannot handle a high-stress type of job, and they show emotional responses to an average level of workplace stress.
-- A person in the **thinking** pattern has an initial emotional response, but they can overcome it pretty quickly, and they return
+- A person in the **thinking** pattern has an initial emotional response, but they can overcome it pretty quickly, and they return to their normal state easily.
+- A person within the **choice** category can be passionate or completely switched off; they're able to choose their state when handling stress. This type of person can handle emergencies and stressful situations quite well and is usually found in high-stress jobs.
+- To 
