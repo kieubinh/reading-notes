@@ -16,7 +16,6 @@ Here's my book list with some notes and collected quotes.
 2. [Built, Not Born](books/bnb.md) -  Tom Golisano, Mike Wicks
 3. [Nine Lies About Work](books/nlaw.md) -  Marcus Buckingham and Ashley Goodall
 
-
 ## Communication Skills
 1. [How To Make People Like You](books/htmplu.md) - Nicholas Boothman
 2. [How To Win Friends and Influence People](books/htwfaip.md) - Nicholas Boothman
@@ -25,7 +24,7 @@ Here's my book list with some notes and collected quotes.
 5. [Talking to Strangers](books/tts.md) - Malcolm Gladwell
 6. [Words that Change Minds](books/wtcm.md) - Shelle Rose Charvet
 7. [Crucial Conversations](books/ccon.md) - Kerry Patterson and etc.
-8. 
+8. [Negotiating the Nonnegotiable: How to Resolve Your Most Emotionally Charged Conflicts]
 
 ## Productivity
 1. 
