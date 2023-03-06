@@ -69,4 +69,17 @@
 - Someone with a **feeling** pattern cannot handle a high-stress type of job, and they show emotional responses to an average level of workplace stress.
 - A person in the **thinking** pattern has an initial emotional response, but they can overcome it pretty quickly, and they return to their normal state easily.
 - A person within the **choice** category can be passionate or completely switched off; they're able to choose their state when handling stress. This type of person can handle emergencies and stressful situations quite well and is usually found in high-stress jobs.
-- To 
+- **Asking someone about a difficult work situation can help you identify how they handle workplace stress.**
+- If you're dealing with a person in the **feeling** category, use words such as "wonderful", "exciting", "intense".
+- If you're speaking to someone in the **thinking** category, use words such as "feel right", "appropriate", and "empathy".
+- If you're talking to someone who is more towards the choice end of the scale, use words such as "facts", "clear thinking", "statistics".
+
+## Chapter 10 - Conclusion
+- There are millions of people, so it's impossible to respond in the same way to every type of language and communication method.
+- Realizing and address each person slightly differently according to the context you're referring to.
+- Identifying a person's motivation source, how they deal with stress, how they respond to challenging situation, and a person's hot buttons means that you can turn any conversation around to your liking and learn to gain more from any exchange you have.
+- While it's perfectly normal to struggle with communication from time to time, knowing the basics and understanding the people you're speaking to, you can turn things around to your benefit.
+- **Try this:**
+  + Work through the LAP profile on yourself and try and identify your language.
+  + Create a tick chart and wok through the LAB profile on a friend or family member, practicing what to look out for.
+  + Identify the context in which you're trying to communicate before you begin, e.g., is it work, is it a relationship, is it something else entirely?
