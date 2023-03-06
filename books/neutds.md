@@ -1,5 +1,5 @@
 # Naked Economics: Undressing The Dismal Science
-- Author: Charles Wheelan
+- Author: **Charles Wheelan**
 - Why is there a difference between the economics of the two countries? Why are some countries developed, and some are underdeveloped? Why is Bill Gates richer than you?
 - Wheelan is the author of "Naked Statistics", "Naked Economics" and "Naked Money".
 
@@ -44,4 +44,13 @@
 ## Chapter 5 - Information matters, particularly when we don't have all that we need
 - The truth is that what we don't know can hurt us.
 - Economics teaches us how we acquire information, what we do with it, and how we make decisions with the information we get.
+- The need for information is why we have branding and why branding is an essential aspect of the trade.
+- **Branding is what makes us shop for products and services whose quality we cannot quickly determine.**
+- Branding is what makes us buy a book without knowing its content.
+- It solves a problem for consumers - how do you select products whose quality or safety you can determine only after using them?
+- Consumers will trust your products based on the information available to them through your branding.
+
+## Chapter 6 - Human capital is what distinguishes a novice from a professional
+- Human capital is the total number of skills embodied within an individual. It ranges from education, intelligence, charisma, creativity, work experience, entrepreneurial vigor, to our ability to do what might look basic to others.
+- 
 - 
