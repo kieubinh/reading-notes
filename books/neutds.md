@@ -52,5 +52,31 @@
 
 ## Chapter 6 - Human capital is what distinguishes a novice from a professional
 - Human capital is the total number of skills embodied within an individual. It ranges from education, intelligence, charisma, creativity, work experience, entrepreneurial vigor, to our ability to do what might look basic to others.
-- 
-- 
+- People who have attained a professional level with their human capital would be appreciated more because they offer a scarce service.
+- Human capital is about much more than earning more money. It makes us better parents, and more productive individuals.
+- Human capital creates opportunities. It makes us more prosperous and healthier; it makes us more complete human beings; it enables us to live better while working less.
+- Most importantly, human capital separates the rich from the poor. When we invest heavily in human capital, the dividends pay us well.
+
+## Chapter 7 - Small-scale businesses contribute more to the economy than we might think
+- **Small-scale businesses control the level of inflation in a country. If a large percentage of these businesses cease to produce, massive inflation will occur.**
+- People don't really pay attention to an increase in the cost of living until it affects small businesses.
+- Massive inflation distorts the economy massively. Workers rush to spend their cash before it becomes worthless.
+- Fixed-rate loans become almost impossible because no financial institution will agree to be repaid a fixed quantity of money and interest when that money is at risk of becoming worthless.
+
+## Chapter 8 - International trade should be encouraged to boost the economy of developing countries
+- **The goal of global economic policy should be to make it easier for nations to cooporate. The better we do it, the richer out economies will be.**
+
+## Chapter 9 - Trade is the magical machine with which we can lift billions of people out of poverty
+- Imagine a machine that could turn cloth into a $10 bill or turn a basket of avocados into 200 yen. With this machine, developing nations can put the things they manage to produce - commodities, cheap textiles, basic manufactured goods - into the machine and obtain goods that might otherwise be denied them - food, medicine, tech, etc. This magical machine is called **trade**.
+- Trade is the only way we can exchange cloth for money. There are many advantages of trade:
+  + Trade makes us more prosperous.
+  + Trade lowers the cost of goods for consumers, which is the same as raising their incomes. It allows us to find a level - playing field that makes the buyer and the seller feel satisfied.
+  + Trade gives developing countries access to markets in the developed world.
+  + Trade paves the way for developing countries to get richer. Export industries often pay higher wages than jobs elsewhere in the economy.
+- **A good economy hurts no one, and when there are many good economies, things will work out better for all nations.**
+
+## Chapter 10 - Conclusion
+- If you have a business idea you would like to sell to people, create a brand by sticking with quality output.
+- Do not let the prospect of huge profits cause you to produce a substandard product.
+- Some of the world's greatest brands are known for their excellent qualities.
+- When your quality is assured, consumers will purchase your products regardless of the price.
