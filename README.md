@@ -27,8 +27,8 @@ Here's my book list with some notes and collected quotes.
 8. [Negotiating the Nonnegotiable: How to Resolve Your Most Emotionally Charged Conflicts]
 
 ## Productivity
-1. [12 Week Year](books\t12ww.md) - Brian P. Moran, Michael Lennington
-2. [The 4-Hour Workweek](books\t4hw.md) - 
+1. [12 Week Year](books/t12ww.md) - Brian P. Moran, Michael Lennington
+2. [The 4-Hour Workweek](books/t4hw.md) - 
 
 ## Society & Tech
 
