@@ -2,7 +2,7 @@
 - Author: **Brian P. Moran, Michael Lennington**
 - If you could do things differently, would you be willing to achieve in 12 weeks, what you can achieve in 12 months? The answer is: commitment.
 - Commitment is a way of life that affects every aspect of your existence. It determines everything about your life and how productive you can become now and in the future.
-- **Let him who would enjoy a good future waste none of his present.** by Roger Ward Babson
+- **Let him who would enjoy a good future waste none of his present.** by _Roger Ward Babson_.
 
 ## Chapter 1 - Your inability to commit to set goals is the major reason you are not productive
 - **The decisions you make today determines the results you get tomorrow. If you want a great future, you need to make better decisions.**
@@ -15,12 +15,12 @@
 - **The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.**
 
 ## Chapter 2 - The most difficult challenge people face is not the lack of knowledge, but the lack of execution
-- **We all have two lives; the one we live and the one we're capable of living."** by Steven Pressfield, the author of "The War of Art".
+- **We all have two lives; the one we live and the one we're capable of living."** by _Steven Pressfield_, the author of "The War of Art".
 - Knowledge without execution is futile and useless.
 - The key to experencing growth is understanding the power of execution.
 - When you always do what's expected of you, you'll have no problem increasing your productivity.
 - Once we can consistently focus on what works, we'll be able to do things quite easily.
-- **"If we did the things we are capable of doing, we would literally astound ourselves."** by Thomas Edison.
+- **"If we did the things we are capable of doing, we would literally astound ourselves."** by _Thomas Edison_.
 - Each day is important to our lives, and that's why we must be careful of annualized thinking.
 - Deadlines motivate us to do many things because of the thrills associated with it.
 - Creat a feasible deadline for yourself today and work assiduously towards achieving it.
@@ -70,7 +70,37 @@
   + **Greatness in the moment** is in realizing that committing to a particular thing is an act of greatness itself. Achieving a result is not the greatness; it's only a confirmation of your commitment. True greatness is attached to your commitment to a plan.
   + **Vision** You need to create a sustainable vision for yourself that means you're establishing a reason why you should stay committed to achieving a set goal.
   + **Planning** A working plan helps you focus on the most important things in your life.
-  + **Process control** These are the plans you have put in place to facilitate successful processes to an event.
-  + 
+  + **Process control** These are the plans you have put in place to facilitate successful processes to an event. They are the set of tools that successfully align your daily actions with the results you tend to achieve.
+  + **Measurement** Measurement helps you to know your stance so that you can evaluate your position. It's a feedback system that tells you if you're on the right track or not.
+  + **Time use** You must be clear with your intentions in regards to your time. Time is a continuum, and you must make the best use of it.
 - **Create an effective plan that makes long-term goals your priority.**
 
+## Chapter 6 - The most successful people in life know that it takes courage to admit to a mistake and do what's required to correct it
+- Owning to your mistakes doesn't make you weak; it means you're bold enough to hold yourself accountable for your actions.
+- We define our own moments and the choices we make as a result of the decision we made. People who paint themselves as victims always limit their success to the actions of others. They are always under the shadow of an external force, and because they are quick to blame someone or something else, they are forced to see life as a struggle.
+- Accountability gives you control over your life because you're able to determine what works for you and what doesn't.
+- It gives you leverage over difficult situations because rather than blaming the process, you'll be more focused on improving yourself.
+- The commitment you make doesn't necssarily have to be huge or magnanimous; it could be something simple and ordinary. If you commit to doing something simple daily, you won't realize how difficult it is until you have done it consistently for weeks or months. Sometimes, some of the things that look ordinary become extraordinary when we commit to it.
+- **Commitment gives life to things that might otherwise seem lifeless.**
+- You'll experience a lot of reproach and resistance, but you must not deter from your set goals.
+- Look toward your long-term goals instead of the short-term comfort.
+- While it's good to be committed, don't overcommit and hurt yourself in the process. Set realistic goals only to avoid consistent failure.
+- The moment you give up, you've missed a commitment.
+- It's never too late to try and commit to something.
+- Commitment involves taking new, difficult steps which requires getting rid of old habits that are not beneficial nor do they add value to your life.
+- Celebrate your wins no matter how small, and use the 13th week to review your success.
+- If you feel you have not achieved enough, it's never too late to start again.
+- **If we did the things we are capable of doing, we would literally astound ourselves.**
+
+## Chapter 7 - Conclusion
+- You're as good or bad as the decisions you make.
+- Whatever you want to achieve, you must be committed to it.
+- Compressing a year into 12 weeks requires a maximum level of concentration, and that's the level you need to be.
+- You don't have to do many things to have a successful life - stick to the few things that work, and you'll witness exponential growth.
+- Excellence is not an act but a habit that needs persistence. See a year like it's made up of 12 weeks.
+- This means that whatever you plan to achieve within a year, see how well you can do by trying to achieve it in 12 weeks.
+- **Try this:**
+  + Make a list of all your interest
+  + Rank them based on their importance.
+  + Choose the most important ones and commit towards them using the 12-week year plan.
+  + Enforce your commitment by applying the eight elements of commitment.
