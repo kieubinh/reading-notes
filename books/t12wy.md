@@ -52,4 +52,25 @@
 - If you're really interseted in something, you must take actionable steps to show your commitment to it.
 - The four keys to a successful commitment are strong desire, keystone actions, cost counting, and the desire to act on commitments rather than feelings.
   + Strong desire arises from having a clear and personally compelling reason to do something. Without a strong desire, you will falter when things get very tough.
-  + Keystone actions involve knowing the core actions that will produce the results you are after.
+  + Keystone actions involve knowing the core actions that will produce the results you are after. Find the essential activities in your plans and work on them.
+  + **Count the costs** by considering the costs of a commitment. It helps you to prepare mentally and physically for the task ahead.
+  + **Act on your commitments and not your feelings.** It might seem very difficult and daunting to do some things, but what makes it a commitment is knowing how to override your feelings to keep yourself motivated.
+- Another mistake we often make is that we concentrate on too many things, thereby losing focus on the most important things in the process. There's a huge chance that you are always multitasking, trying to do eveything at once. This is not an ideal way to live - it's not suited for your body in any way. Don't rush trying to make up for a lost time.
+- **Take each day as it comes and make full use of it. If you're hell-bent on making up for a lost time, you'll end up losing the present and the future in return.**
+- To effectively maximize your interests and time, it's important to find a balance between your work and your life.
+- Work-life balance is only achievable by the choices you make in life.
+- If your work negates your life or vice-versa, the decision to quit or stay rests in your hands.
+- Work-life balance can never be equal, and we should accept that. There's no way you can equally balance the time you spend at work with the time you spend for yourself - one has to be higher than the other.
+- The only way you can achieve a balance is by setting up a plan for yourself on how you can maximize the time you spend on each aspect of your life.
+
+## Chapter 5 - The execution system helps you to make conscious decisions about your life
+- This system is based on **8 elements**: **vision, planning, process control, measurement, time use, accountability, commitment, and greatness in the moment**, which divided into two groups: **the five disciplines** (the 5 first ones) and **the three principles** (the 3 last ones).
+  + **Accountability** is owning up to your successes and failures. It's accepting ownership of the situations in your life because most of the things that happen to you are as a result of the decisions you've made.
+  + **Commitment** is putting in a lot of effort into keeping to the promises you made to yourself.
+  + **Greatness in the moment** is in realizing that committing to a particular thing is an act of greatness itself. Achieving a result is not the greatness; it's only a confirmation of your commitment. True greatness is attached to your commitment to a plan.
+  + **Vision** You need to create a sustainable vision for yourself that means you're establishing a reason why you should stay committed to achieving a set goal.
+  + **Planning** A working plan helps you focus on the most important things in your life.
+  + **Process control** These are the plans you have put in place to facilitate successful processes to an event.
+  + 
+- **Create an effective plan that makes long-term goals your priority.**
+
