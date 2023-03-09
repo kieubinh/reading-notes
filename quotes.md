@@ -6,7 +6,8 @@
 3. "The difference between an optimist and a pessimist? An optimist laughs to forget but a pessimist forgets to laugh." by _Tom Bodett_
 4. "If people like you, they will be inclined to give you their time and their efforts." by _Nicholas Broothman_
 5. "Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important." by _Nicholas Broothman_
-6. 
+6. "A goal without a plan is just a wish." by _Antoine de Saint-Exupéry_
+7. 
 
 ## Love
 
