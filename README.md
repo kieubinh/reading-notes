@@ -41,7 +41,6 @@ Here's my book list with some notes and collected quotes.
 2. [ ] [The 48 Laws of Power](books/t48lop.md) - Robert Greene
 3. [ ] [Chop Wood, Carry Water](books/cwcw.md) - Joshua Medcalf
 4. [ ] [The Biggest Bluff](books/tbbluff.md) - Maria Konnikova
-5. 
 
 ## Success
 
