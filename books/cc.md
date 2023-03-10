@@ -37,4 +37,8 @@
 ## Chapter 4 - Learning to recognize the moment a conversation starts turning unhealthy will enable you to respond quickly and get it back on track
 - A crucial conversation is made up of content, which is the topic under discussion and the conditions, what participants to the conversation are doing in response to the flow of information.
 - When the crucial conversation begins to turn unhealthy, we should take steps to remedy the conversation. There are three indicators you should watch out for.
-  + One, the moment a routine conversation turns crucial.  
+  + One, the moment a routine conversation turns crucial. At that moment, you will experience physical signals in your body such as a tightening of your stomach, the dryness of your eyes, clenched fists or the tightness of your grip; or in emotional form - fear, hurt or anger; or in behavioural form - a raised voice, a pointed finger; etc.
+  + Two, when safety is at risk. At that moment, there is fear in the air, and the free flow of information into The Shared Pool of Meaning dies off.
+  + Three, your style under duress. At that moment, you will be carried away by the idea or cause you are trying to get people to buy into; such that you lose all semblance of social sensitivity; if only for a few moments in time.
+
+## Chapter 5 - 
