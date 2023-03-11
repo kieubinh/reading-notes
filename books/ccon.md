@@ -41,4 +41,13 @@
   + Two, when safety is at risk. At that moment, there is fear in the air, and the free flow of information into The Shared Pool of Meaning dies off.
   + Three, your style under duress. At that moment, you will be carried away by the idea or cause you are trying to get people to buy into; such that you lose all semblance of social sensitivity; if only for a few moments in time.
 
-## Chapter 5 - 
+## Chapter 5 - There are very simple, logical steps you can take to restore safety to a crucial conversation gone wrong and get it back on track
+- How do you restore safety to a crucial conversation gone wrong?
+  + First, you need to step out of the content of the conversation.
+  + Second, reestablish mutual purpose by reassuring another participant that you care about their goals, interests, and values. They, in turn, ought to do the same to you.
+  + Third, reestablish mutual respect by reassuring another participant that they have your highest regard.
+  + Apologize, when it's appropriate. Be sincere with your apology too. If the apology is done right, safety gets restored immediately to the relationship.
+  + Next, in contrast to fixing the initial misunderstanding. Contrasting helps you rebuild mutual purpose or respect to make it safe for everyone to go back to the conversation. Contrasting is done with one or more DON'T/DO statement that addresses others' concerns that you don't respect them or that you have a malicious purpose (the **don't** part) and confirms your respect or clarifies your real purpose (the **do** part). For example, "The last thing I wanted to do was communicate that I don't value the work you put in or that I didn't want to share it with the VP." or "I think your work has been nothing short of spectacular."
+
+## Chapter 6 - By staying in charge of your emotions and proactively acting on them during a crucial conversation, you give the conversation a chance to yield the outcome you desire
+
