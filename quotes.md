@@ -11,10 +11,11 @@ Li04. "If people like you, they will be inclined to give you their time and thei
 
 Li05. "Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important." by _Nicholas Broothman_
 
+
 ## Career
 Ca01. "A goal without a plan is just a wish." by _Antoine de Saint-Exupéry_
 
-Ca02. 
+Ca02. "The decisions you make today determines the results you get tomorrow. If you want a great future, you need to make better decision." by ... in the book "The 12 Week Year"
 
 ## Love
 Lo01. 
