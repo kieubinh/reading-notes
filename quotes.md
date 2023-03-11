@@ -11,11 +11,25 @@ Li04. "If people like you, they will be inclined to give you their time and thei
 
 Li05. "Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important." by _Nicholas Broothman_
 
+Li06. "Commitment gives life to things that might otherwise seem lifeless." in the book "The 12 Week Year"
+
 
 ## Career
 Ca01. "A goal without a plan is just a wish." by _Antoine de Saint-Exupéry_
 
 Ca02. "The decisions you make today determines the results you get tomorrow. If you want a great future, you need to make better decision." by ... in the book "The 12 Week Year"
+
+Ca03. "People lose or win by scores and statistics. Having a way to measure your ability is very important to know where you stand." in the book "The 12 Week Year"
+
+Ca04. "Branding is what makes us shop for products and services whose quality we cannot quickly determine." in the book "Naked Economics"
+
+Ca05. "The average forecasting expert is roughly as accurate as a dart-throwing chimpanzee." in the book "Superforecasting"
+
+Ca06. "Accurate predictability involves optimistically gathering all the necessary information but acknowledging the potential possibility of losing foresight." in the book "Superforecasting"
+
+Ca07. "Aggregating the judgments of many people who know nothing produces a lot of nothing. Aggregating the decisions of people who know a little is better, and if there are enough of them, it can produce impressive results." in the book "Superforecasting"
+
+
 
 ## Love
 Lo01. 
