@@ -50,4 +50,22 @@
   + Next, in contrast to fixing the initial misunderstanding. Contrasting helps you rebuild mutual purpose or respect to make it safe for everyone to go back to the conversation. Contrasting is done with one or more DON'T/DO statement that addresses others' concerns that you don't respect them or that you have a malicious purpose (the **don't** part) and confirms your respect or clarifies your real purpose (the **do** part). For example, "The last thing I wanted to do was communicate that I don't value the work you put in or that I didn't want to share it with the VP." or "I think your work has been nothing short of spectacular."
 
 ## Chapter 6 - By staying in charge of your emotions and proactively acting on them during a crucial conversation, you give the conversation a chance to yield the outcome you desire
+- Emotions just don't happens, you create them. And once you've created them, you have the choice to act or not to act on them.
+- Your emotions become the problem in a crucial conversation when you treat them as if they are the only valid responses to the situation at hand.
+- To become skilled at dialogue, don't allow your emotions to hold you hostage.
+- Don't try to hide or suppress emotions. Act on them by thinking through your emotional state and changing it.
+- Create new, positive emotions, and choose better behaviors that result in more positive outcomes from the conversation.
+- How to do this?
+  + Act on the intermediate state between when you perceive someones or a group of people's actions as detrimental to your interest and when you react emotionally to them.
+  + Tell yourself a positive story because it will provide you with the wherewithal to rationalize what is going on. It will be your interpretation of the facts. It will explain what you see and hear, and you act on what we see and hear.
+  + For example, when you are trying to clarify a piece of information from a colleague and all you get in return is a retort. You will probably tell yourself a story "Oh, maybe he's trying to get back at me for ..." and then adrenaline flows, you get angry and react angrily. By telling yourself a differnt kind of story in that intermediate state "maybe he's just having a bad day ...".
 
+## Chapter 7 - S.T.A.T.E is the framework you can use to master the persuasive speaking skills necessary to make a success out of a crucial conversation
+- One, **share** your facts. Focus on the facts alone. For example, "I found an invoice billed to my husband's credit card. There's probably a valid reason for that.". Leave the entirely of the ugly stories - "Maybe he's having an affair." - and your emotions - "God, I'm so furious at him right now." - out of the conversation.
+- Second, **tell** your story. Your story will help flesh out facts so the implications of the information you are sharing will be clear to all. For example, just telling a colleague you chanced upon the company's software in his briefcase is a fact and says nothing more. But telling your colleague a story - the company doesn't expect its multimillion-dollar proprietary software would leave its premises because of the risk of intellectual theft - says a lot more about the gravity of the situation.
+- Third, **ask** for the other's path. Give the other party a chance to share his or her fact and story. Keep expanding The Pool of Shared Meaning.
+- Four, **talk** tentatively; because it takes the rough edges off the conversation. Present your story just as it is - a story, and not disguise it as hard facts. Use lingo like "Perhaps, you were unaware..." and "In my opinion,..."
+- Lastly, **encourage** testing. When you invite the other person to share his or her path, do it in a courteous manner. Make it clear his or her ideas are welcome, no matter how controversial they may be. Create a conversational atmosphere in which safety thrives. Welcome opposing views, and play the devil's advocate. Do this until your right motive for having the conversation becomes obvious.
+
+## Chapter 8 - You can build rapport with the other participant in a crucial conversation by allowing him or her to S.T.A.T.E his or her path
+- 
