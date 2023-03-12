@@ -15,7 +15,7 @@ Li06. "Commitment gives life to things that might otherwise seem lifeless." in t
 
 Li07. “If you don’t like where you are, move. You are not a tree.” from Vinh Giang
 
-Li08. ***If you’ve never sh*t yourself, how can you become THE Sh*t.*** from Vinh Giang
+Li08. **If you’ve never sh*t yourself, how can you become THE Sh*t.** from Vinh Giang
 
 
 ## Career
