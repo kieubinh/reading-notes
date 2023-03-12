@@ -23,7 +23,7 @@ Here's my book list with some notes and collected quotes.
 4. [ ] [TED Talks Storytelling](books/tedts.md) - Akash Karia
 5. [ ] [Talking to Strangers](books/tts.md) - Malcolm Gladwell
 6. [x] [Words that Change Minds](books/wtcm.md) - Shelle Rose Charvet
-7. [ ] [Crucial Conversations](books/ccon.md) - Kerry Patterson and etc.
+7. [x] [Crucial Conversations](books/ccon.md) - Kerry Patterson and etc.
 8. [ ] [Negotiating the Nonnegotiable: How to Resolve Your Most Emotionally Charged Conflicts]
 
 ## Productivity
