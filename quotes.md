@@ -13,6 +13,10 @@ Li05. "Whether you are trying to make a sale, get a date, or wangle out of a tra
 
 Li06. "Commitment gives life to things that might otherwise seem lifeless." in the book "The 12 Week Year"
 
+Li07. “If you don’t like where you are, move. You are not a tree.” from Vinh Giang
+
+Li08. ***If you’ve never sh*t yourself, how can you become THE Sh*t.*** from Vinh Giang
+
 
 ## Career
 Ca01. "A goal without a plan is just a wish." by _Antoine de Saint-Exupéry_
