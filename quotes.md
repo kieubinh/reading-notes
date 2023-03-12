@@ -17,6 +17,8 @@ Li07. “If you don’t like where you are, move. You are not a tree.” from Vi
 
 Li08. **If you’ve never shjt yourself, how can you become THE Shjt.** from Vinh Giang
 
+Li09. "Stars can't shine without darkness. The darker the night, the brighter the star." by _D.H. Sidebottom_
+
 
 ## Career
 Ca01. "A goal without a plan is just a wish." by _Antoine de Saint-Exupéry_
@@ -36,7 +38,7 @@ Ca07. "Aggregating the judgments of many people who know nothing produces a lot 
 
 
 ## Love
-Lo01. 
+Lo01. "We are all better versions of ourselves when we're loved. And self love is the best!"
 
 ## Friendship 
 Fr01.
