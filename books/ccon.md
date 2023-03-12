@@ -97,4 +97,10 @@
 - **I can win any argument on any topic agains any opponent. People know this and steer clear of me at parties. Ofen, as a sign of their great respect, they don't even invite me.**
 
 ## Chapter 10 - Conclusion
-- The first skill is self-mastery of one's 
+- The first skill is self-mastery of one's emotional state because one's emotions are what one truly has control over.
+- Then, recognition of moments when safety gets lost comes next.
+- And more importantly, require a lot of deliberate pracice.
+- **Try this**
+  + How do you recognize the moment a casual conversation turns crucial in your work environment, with friends, and at home? Can you give specific instances?
+  + What is your go-to modus operandi for dealing with crucial conversations? Can you explain the strategy to a friend in your own words and have him or her approve the strategy as "valid"?
+  + Why are such skills as honesty, candor, and empathy important conversational skills in a crucial conversation? Why will crucial conversations fail if these skills are not employed?
