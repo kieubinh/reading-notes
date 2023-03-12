@@ -68,4 +68,16 @@
 - Lastly, **encourage** testing. When you invite the other person to share his or her path, do it in a courteous manner. Make it clear his or her ideas are welcome, no matter how controversial they may be. Create a conversational atmosphere in which safety thrives. Welcome opposing views, and play the devil's advocate. Do this until your right motive for having the conversation becomes obvious.
 
 ## Chapter 8 - You can build rapport with the other participant in a crucial conversation by allowing him or her to S.T.A.T.E his or her path
-- 
+- Being sincere, be curious, and be patient. Build rapport.
+- **Ask** questions that will openly invite the other participant to freely express themselves such as "What's going on?", "I would like to hear your opinion on this.", and "Tell me as much as you know.", etc.
+- **Mirror**, to confirm feelings. Mirroring is particularly useful when the tone of voice or gestures of the other conversational party do not quite match his or her words. For example, someone might say, "Don't worry, I'm fine." while the tone of voice clearly indicates he or she is upset. You can mirror in this situation by saying, "Really? From the way you are saying that, it doesn't sound like you are. You are upset."
+- When you **mirror** the right way, you empathize and create safety. You say in effect, "it's okay for you to feel the way you feel. You can talk through your feelings with me and not be judged."
+- **Paraphrase**, once in a while, to acknowledge the story. It shows you are tagging along and builds additional safety the conversation can thrive on. Use lingo like, "Pause a second, let me see if I got this right. You are saying ..."
+- Lastly, **prime** the others' story, when it seems you are getting nowhere. This tactic is useful when you sense the other party is inclined towards opening up but doesn't think it safe yet to do so.
+
+## Chapter 9 - The "Who-Does What-By When-How will you follow up" framework helps turn crucial conversations into actions and results
+- Moving from decision-making to action presents its own set of challenges.
+- Making decisions don't amount too much if they are not acted on, and they are meaningless if there is no framework for acting on them.
+- In the beginning of a crucial conversation, there is a need to create safety or else things will go south.
+- In the end, the need to arrive at conclusions and decisions also puts the conversation at risk mainly due to the risk of violated expectations later on.
+- The way to tackle these potential problems with decision-making is to first decide how decisions that result from a crucial conversation would be taken.
