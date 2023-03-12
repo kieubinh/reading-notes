@@ -80,4 +80,21 @@
 - Making decisions don't amount too much if they are not acted on, and they are meaningless if there is no framework for acting on them.
 - In the beginning of a crucial conversation, there is a need to create safety or else things will go south.
 - In the end, the need to arrive at conclusions and decisions also puts the conversation at risk mainly due to the risk of violated expectations later on.
-- The way to tackle these potential problems with decision-making is to first decide how decisions that result from a crucial conversation would be taken.
+- The way to tackle these potential problems with decision-making is to first decide **how decisions** that result from a crucial conversation would be taken.
+  + Is there going to be a consensus?
+  + Would someone in authority just decide?
+  + How would the final decision be taken? By command? By consultation? By a vote or by consensus?
+- Other questions around the subject of decision-making that require answers include who cares about the outcome of the crucial conversation.
+  + Who knows enough to make the best decisions?
+  + Whose cooperation do you need as you try to implement the decisions arriving out of the crucial conversation?
+  + How many people ought to be in the loop as decisions are agreed on?
+- Next, assignments are created out of every decision reached during the course of a crucial conversation using the Who-Does What-By When-How will you follow up a framework.
+  + Who's responsible for each assignment?
+  + What are the deliverables?
+  + When are the deliverables due?
+  + What rules are in place for reporting progress?
+- Lastly, all decisions resulting from a crucial conversation and assignment accompanying them must be documented.
+- **I can win any argument on any topic agains any opponent. People know this and steer clear of me at parties. Ofen, as a sign of their great respect, they don't even invite me.**
+
+## Chapter 10 - Conclusion
+- The first skill is self-mastery of one's 
