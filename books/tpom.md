@@ -1,5 +1,5 @@
 # The Psychology of Money
-- Author: Morgan Housel
+- Author: _Morgan Housel_
 - The author argues that doing well with money doesn't have as much to do with knowledge as it has to do with behavior. And behavior is one of the hardest things to teach, but Housel goes deep into it in this book, showing readers little behavioral changes that will greatly impact their net worth.
 
 ## Chapter 1 - No one is crazy
