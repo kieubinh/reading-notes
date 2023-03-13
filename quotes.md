@@ -35,7 +35,7 @@ Ca06. "Accurate predictability involves optimistically gathering all the necessa
 
 Ca07. "Aggregating the judgments of many people who know nothing produces a lot of nothing. Aggregating the decisions of people who know a little is better, and if there are enough of them, it can produce impressive results." in the book "Superforecasting"
 
-
+Ca08. "People don't want to be millionaires, they want to experience what they believe only billions can buy." from the book "The 4-Hour Work Week".
 
 ## Love
 Lo01. "We are all better versions of ourselves when we're loved. And self love is the best!"
