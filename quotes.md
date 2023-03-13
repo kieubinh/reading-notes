@@ -11,11 +11,11 @@ Li04. "If people like you, they will be inclined to give you their time and thei
 
 Li05. "Whether you are trying to make a sale, get a date, or wangle out of a traffic ticket, eastablishing a rapport is very important." by _Nicholas Broothman_
 
-Li06. "Commitment gives life to things that might otherwise seem lifeless." in the book "The 12 Week Year"
+Li06. "Commitment gives life to things that might otherwise seem lifeless." in the book _"The 12 Week Year"_
 
 Li07. “If you don’t like where you are, move. You are not a tree.” from Vinh Giang
 
-Li08. **If you’ve never shjt yourself, how can you become THE Shjt.** from Vinh Giang
+Li08. **If you’ve never shjt yourself, how can you become THE Shjt.** from _Vinh Giang_
 
 Li09. "Stars can't shine without darkness. The darker the night, the brighter the star." by _D.H. Sidebottom_
 
@@ -33,13 +33,17 @@ Ca05. "The average forecasting expert is roughly as accurate as a dart-throwing 
 
 Ca06. "Accurate predictability involves optimistically gathering all the necessary information but acknowledging the potential possibility of losing foresight." in the book "Superforecasting"
 
-Ca07. "Aggregating the judgments of many people who know nothing produces a lot of nothing. Aggregating the decisions of people who know a little is better, and if there are enough of them, it can produce impressive results." in the book "Superforecasting"
+Ca07. "Aggregating the judgments of many people who know nothing produces a lot of nothing. Aggregating the decisions of people who know a little is better, and if there are enough of them, it can produce impressive results." in the book _"Superforecasting"_
 
-Ca08. "People don't want to be millionaires, they want to experience what they believe only billions can buy." from the book "The 4-Hour Work Week".
+Ca08. "People don't want to be millionaires, they want to experience what they believe only billions can buy." from the book _"The 4-Hour Work Week"_
+
+Ca09. "People do not decide their futures, they decide their habits and their habits decide their futures." by _F.M. Alexander_
+
 
 ## Love
 Lo01. "We are all better versions of ourselves when we're loved. And self love is the best!"
 
 ## Friendship 
 Fr01.
+
 
